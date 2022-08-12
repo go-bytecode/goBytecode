@@ -1,4 +1,4 @@
-package gobytecode
+package main
 
 type Value interface{}
 
